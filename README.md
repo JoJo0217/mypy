@@ -1,1 +1,2 @@
-# 2022_Library_Python
+# To execute the program, type:
+python hello.py
